@@ -13,7 +13,6 @@
     <div class="bg">
         <table align="center" cellpadding="10">
             <h1>login Here</h1>
-            <img src="pes1.jpg" alt="">
 
             <form action="" method="post">
                 <tr>

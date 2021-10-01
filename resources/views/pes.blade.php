@@ -11,10 +11,10 @@
 </head>
 
 <body align="center" cellpadding="200">
-    <div class="bg img">
+    <div class="bg img ll">
         <form action="" method="get"></form>
         <h1>PES EFOOTBALL</h1>
-        <img src="pes.jpg" alt="">
+        
         <br>
         <br>
         <button class="color"><a href="http://127.0.0.1:8000/login"> LOGIN HERE</a></button>

@@ -1,26 +1,28 @@
-.bg {
-    margin-left: 400px;
-    margin-right: 400px;
-    border: 3px;
-    border-style: solid;
-    border-radius: 10%;
-    border-color: black;
-    padding: 15px;
-    padding-bottom: 50px;
-    background-image: url("");
-    background-color: rgb(41, 41, 44);
-    color: white;
-    /* background-image: url("..public/pes.jpg "); */
-}
-
-.img {
-    margin-top: 100px;
-}
-
-.color {
-    color: rgb(0, 0, 0);
-}
-
-.pd {
-    padding-bottom: 20px;
-}
+    .bg {
+        margin-left: 400px;
+        margin-right: 400px;
+        border: 3px;
+        border-style: solid;
+        border-radius: 10%;
+        border-color: black;
+        padding: 15px;
+        padding-bottom: 50px;
+        background-color: rgb(41, 41, 44);
+        background-image: url("../pes2.jpg");
+        /* background-image: ; */
+        color: red;
+    }
+    
+    .img {
+        margin-top: 100px;
+        color: black;
+        margin-bottom: 100px;
+    }
+    
+    .color {
+        color: rgb(0, 0, 0);
+    }
+    
+    .pd {
+        padding-bottom: 20px;
+    }
